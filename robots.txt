@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-tkvx15.assetshst.online/sitemap.xml
